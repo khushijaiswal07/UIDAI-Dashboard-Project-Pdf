@@ -11,7 +11,7 @@ It presents a data visualization dashboard in PDF format, highlighting key insig
 
 ## Project Deliverable
 📄 **Dashboard PDF:**  
-[Click here to view the dashboard](https://github.com/khushijaiswal07/UIDAI-Dashboard-Project-Pdf/blob/main/UAIDA%20FINAL%20PDF%201.pdf)
+[Click here to view the dashboard]("C:\Users\HP\Downloads\UAIDA FINAL PDF 1.pdf")
 
 ## Tools & Skills
 - Data Analysis
